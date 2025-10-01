@@ -51,9 +51,11 @@ If Brave>Faith -> They start as Squire
 If Faith>Brave -> They start as Chemist
 
 Exceptions: 
-    The Starting Six units, they retain their current jobs.
-    Guests
-    Special Jobs
+The Starting Six units, they retain their current jobs.
+
+Guests
+
+Special Job Units
     
         Agrias - Holy Knight - 
             Tier 2: Knight - May use only the White Mage skills available to her already otherwise the player 
