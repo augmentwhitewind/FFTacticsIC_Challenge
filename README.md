@@ -35,8 +35,8 @@ Final Fantasy Tactics: Ivalice Chronicles ~ Story Events only
     Dragonheart reaction can only be used once, if it procs and the unit revives by using it at least once, 
         they can no longer after the battle use that reaction for the rest of the game
 
-    Bard Song Nameless Song can only be used if no character dies and is revived using its Reraise upon its use, 
-        it can no longer be used. So be careful!
+    Bard Song Nameless Song can only be used if no character dies and is revived using its Reraise, upon its use 
+        it can no longer be used for the entire game. So be careful!
 
 6: Must always choose the choice of saving dialogue in battles.
 
