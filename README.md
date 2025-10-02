@@ -4,7 +4,7 @@ Final Fantasy Tactics: Ivalice Chronicles ~ Story Events only
 
 1: Only Story Battles are the battles allowed to be fought in.
 
-2: No further Shopping at the Outfitters except at the start of the chapter at the first city visited, you are free to enter and exit the Outfitters so long as you have not left the city ~ try to scavenge asap ~ Poaching is okay but cannot go out of your way to collect it, 
+2: You cannot shop at any Outfitters except at the start of the chapter at the first city visited, you are free to enter and exit the Outfitters so long as you have not left the city ~ try to scavenge asap ~ Poaching is okay but cannot go out of your way to collect it, 
     must land on a city with the Poachers' Den on the way to a story event.
 
     Chapter 1: Gariland
@@ -13,7 +13,7 @@ Final Fantasy Tactics: Ivalice Chronicles ~ Story Events only
     Chapter 4: Riovanes Castle
 
 
-3: If for some reason in a random battle that is not a story event, restart until you reached a story event.
+3: If for some reason you are in a random battle that is not a story event, restart until you reached a story event.
 
 4: Players can chose the direction of their route to the Story Event if there is two or more ways to get there but should always be heading to the next story event.
 
@@ -183,3 +183,5 @@ Optional Restrictions
 No reset move- must commit to said moved position 
 
 Gold Restriction - Set a gold cap for a chapter or the whole game in general. Game starts you out at 10,000 gold so that is all the gold you'll ever use.
+
+Cannot attack allies, exceptions is when your units are charmed, confused, or vampire status.
